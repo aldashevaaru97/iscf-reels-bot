@@ -1,0 +1,24 @@
+# ============================================================
+#  Настройки бота — Social Media Publisher
+#  Заполни 3 оставшихся строки и готово!
+# ============================================================
+
+# 1. Токен бота из @BotFather (создай бота и скопируй токен)
+TELEGRAM_BOT_TOKEN=8773700415:AAHe6DEp8bWSA2ePADK-dLt3dEFdfkUOj5c
+
+# 2. Токен Facebook (из Meta Developer → Graph API Explorer)
+FACEBOOK_ACCESS_TOKEN=EAANColxRPbQBRVHZCwwnwoyt8KqzXZA2azyU9m3ZB6xISBf0ZAgVZCB6buFJa1nniObZAZAAII4ZAMQJ7vi9m2CnlFzBrOaK0jTLsVQKuOqcZCxi1xPS85U9O4DTP01MgRKljEMzahrmaGvabYtQckQUV9snU84ka9MkrIYIJKHOHibFb5RvSSp9s7RHCwydkjoPNRNWME7bKprxXH9Mb1ZBDlbZAxvvyZBdSrt3aD3u6NkZCiXYOlAgDHy08y90ZB4CxiMscjtrbSlZAQyH8oO1wwZD
+
+# 3. ID страницы Facebook (найди в Информация → Page ID)
+FACEBOOK_PAGE_ID=635659372964471
+
+# ── Эти строки уже заполнены ────────────────────────────────
+
+# Твой Telegram ID (Aruzhan) — тебе будут приходить уведомления
+ADMIN_USER_ID=51777295
+
+# Оба пользователя у кого есть доступ к боту
+ALLOWED_USER_IDS=51777295,371161909
+
+# Имена пользователей для уведомлений
+USER_NAMES=51777295:Aruzhan,371161909:Catherine
